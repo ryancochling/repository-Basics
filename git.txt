@@ -1,0 +1,4 @@
+I used a different blob, but the method signature is void* xdl_alloc_grow_helper(void* p, long nr, long* alloc, size_t size)
+The command prints the 4th from last entry in the tree obhect and displays the contents of the git object from the last four lines from tail -4 and first line from head -1
+Reviewed-by: Ralf Thielow <ralf.thielow@gmail.com>
+b/Documentation/RelNotes/2.31.1.txt

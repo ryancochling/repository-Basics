@@ -1,0 +1,11 @@
+I usually use VSCODE because that was the only one introduced to me in my past classes so I have become the most comfortable with it
+I don't have any experience with any other terminal based systems. 
+It makes  for quick practice but can be difficult to make longer more complex programs
+
+
+
+
+
+
+
+
